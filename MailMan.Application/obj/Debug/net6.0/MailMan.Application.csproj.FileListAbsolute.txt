@@ -1,0 +1,17 @@
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Application.deps.json
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Application.dll
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Application.pdb
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Dal.dll
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Domain.dll
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Dal.pdb
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\bin\Debug\net6.0\MailMan.Domain.pdb
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.csproj.AssemblyReference.cache
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.AssemblyInfoInputs.cache
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.AssemblyInfo.cs
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.csproj.CopyComplete
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.dll
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\refint\MailMan.Application.dll
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\MailMan.Application.pdb
+C:\Users\Глеб\RiderProjects\MailMan\MailMan.Application\obj\Debug\net6.0\ref\MailMan.Application.dll
