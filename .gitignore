@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+/.idea/*
+/Reo.IdentityServer/tempkey.rsa
+v16/
+.vs/
+mono_crash.mem.*
+*csproj.DotSettings
+*sln.DotSettings.user.DotSettings
+/*.sln.*
